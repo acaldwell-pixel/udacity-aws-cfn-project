@@ -1,4 +1,4 @@
-# CloudFormation Project
+# AWS CloudFormation Project for Udacity Cloud DevOps Nanodegree
 
 ## Objective
 
